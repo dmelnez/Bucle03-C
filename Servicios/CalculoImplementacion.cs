@@ -11,7 +11,7 @@ namespace Bucle03.Servicios
 
         public int calculo(int valorin)
         {
-            int valor1;
+            
 
             for (int i = 1; i < valorin; i++) 
             {
