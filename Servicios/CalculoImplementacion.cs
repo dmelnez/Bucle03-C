@@ -8,7 +8,11 @@ namespace Bucle03.Servicios
 {
     internal class CalculoImplementacion : CalculoInterfaz
     {
-
+        /// <summary>
+        /// Metodo en el cual, se calcula todos lo valores anteriores de valorin (valor Introducido por el usuario)
+        ///  <autor>30/10/2023 - DMN</autor>
+        /// </summary>
+        /// <returns></returns>
         public int calculo(int valorin)
         {
             

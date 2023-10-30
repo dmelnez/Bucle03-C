@@ -8,6 +8,11 @@ namespace Bucle03.Servicios
 {
     internal class MenuImplementacion : MenuInterfaz
     {
+        /// <summary>
+        /// Metodo por el cual se le pide al usuario un valor y lo devuelve
+        ///  <autor>30/10/2023 - DMN</autor>
+        /// </summary>
+        /// <returns></returns>
 
         public int pideNum()
         {
